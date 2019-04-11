@@ -9,7 +9,10 @@ https://chrome.xgqfrms.xyz/
 
 https://chrome-extensions.xgqfrms.xyz/
 
-```html
-    
+
+```sh
+# build
+
+$ app
 
 ```
